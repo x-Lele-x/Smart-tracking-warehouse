@@ -43,9 +43,9 @@ RH_RF95 rf95(LLG_CS, LLG_DI0); // slave select pin and interrupt pin, [heltec|tt
 RHMesh manager(rf95, BRIDGE_ADDRESS);
 
 //Di seguito vanno inserite ssid e password della rete wifi a cui è connesso il server e di conseguenza anche l'ESP
-const char* ssid = "Lele";
-const char* password = "iefr5972";
-const char* serverAddress = "192.168.90.142"; //equivale all'indirizzo IP privato del pc su cui gira il server
+const char* ssid = "Someone";
+const char* password = "password";
+const char* serverAddress = "172.270.168.12"; 
 const uint16_t serverPort = 8080;
 
 String message;
