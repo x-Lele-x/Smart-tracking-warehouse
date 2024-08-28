@@ -4,7 +4,7 @@ This is an IOT project made for an Hackathlon organized by Codemotion.  The solu
 
 IT: 
 
-		#Simulazione monitoraggio prodotti all'interno di un magazzino
+<h3 align: center> Simulazione monitoraggio prodotti all'interno di un magazzino</h3>
 
 Spiegazione Progetto:
 
@@ -45,7 +45,7 @@ N.B.
 
 ENG:
 
-		#Simulation of Product Monitoring Inside a Warehouse
+<h3 align: center>Simulation of Product Monitoring Inside a Warehouse</h3>
 
 Project Explanation:
 
